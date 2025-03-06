@@ -1,4 +1,4 @@
-testing how the commands wrk
+testing how the commands working.
 I have learned following commands
 git push
 git pull
